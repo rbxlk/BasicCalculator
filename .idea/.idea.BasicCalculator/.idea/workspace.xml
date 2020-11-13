@@ -8,10 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84345182-5811-4ffd-8ae9-b2a30eae2402" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BasicCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BasicCalculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="84345182-5811-4ffd-8ae9-b2a30eae2402" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -67,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605267847088</updated>
-      <workItem from="1605267852503" duration="1317000" />
+      <workItem from="1605267852503" duration="1887000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1605268216116</created>
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605268216116</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add basic calculator functionality">
+      <created>1605272373949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605272373949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,29 +103,34 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add basic calculator functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add basic calculator functionality" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2014" height="325" key="GridCell.Tab.0.bottom" timestamp="1605268518170">
+    <state width="2014" height="325" key="GridCell.Tab.0.bottom" timestamp="1605272199769">
       <screen x="1680" y="-133" width="2560" height="1417" />
     </state>
-    <state width="2014" height="325" key="GridCell.Tab.0.bottom/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605268518170" />
-    <state width="2014" height="325" key="GridCell.Tab.0.center" timestamp="1605268518169">
+    <state width="2014" height="325" key="GridCell.Tab.0.bottom/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605272199769" />
+    <state width="2014" height="325" key="GridCell.Tab.0.center" timestamp="1605272199767">
       <screen x="1680" y="-133" width="2560" height="1417" />
     </state>
-    <state width="2014" height="325" key="GridCell.Tab.0.center/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605268518169" />
-    <state width="2014" height="325" key="GridCell.Tab.0.left" timestamp="1605268518168">
+    <state width="2014" height="325" key="GridCell.Tab.0.center/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605272199767" />
+    <state width="2014" height="325" key="GridCell.Tab.0.left" timestamp="1605272199766">
       <screen x="1680" y="-133" width="2560" height="1417" />
     </state>
-    <state width="2014" height="325" key="GridCell.Tab.0.left/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605268518168" />
-    <state width="2014" height="325" key="GridCell.Tab.0.right" timestamp="1605268518169">
+    <state width="2014" height="325" key="GridCell.Tab.0.left/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605272199766" />
+    <state width="2014" height="325" key="GridCell.Tab.0.right" timestamp="1605272199768">
       <screen x="1680" y="-133" width="2560" height="1417" />
     </state>
-    <state width="2014" height="325" key="GridCell.Tab.0.right/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605268518169" />
-    <state x="2368" y="264" key="Vcs.Push.Dialog.v2" timestamp="1605268221770">
+    <state width="2014" height="325" key="GridCell.Tab.0.right/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605272199768" />
+    <state x="2277" y="163" key="SettingsEditor" timestamp="1605271985471">
       <screen x="1680" y="-133" width="2560" height="1417" />
     </state>
-    <state x="2368" y="264" key="Vcs.Push.Dialog.v2/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605268221770" />
+    <state x="2277" y="163" key="SettingsEditor/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605271985471" />
+    <state x="2368" y="264" key="Vcs.Push.Dialog.v2" timestamp="1605272376312">
+      <screen x="1680" y="-133" width="2560" height="1417" />
+    </state>
+    <state x="2368" y="264" key="Vcs.Push.Dialog.v2/1680.-133.2560.1417/0.23.1680.947@1680.-133.2560.1417" timestamp="1605272376312" />
     <state x="2584" y="420" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605268020251">
       <screen x="1680" y="-133" width="2560" height="1417" />
     </state>

@@ -7,8 +7,8 @@ namespace BasicCalculator
         static void Main(string[] args)
         {
             // Declare variables and then intialise to zero.
-            var num1 = 0;
-            var num2 = 0;
+            double num1 = 0;
+            double num2 = 0;
             
             //Display title as the C# console calculator app.
             Console.WriteLine("Console Calculator in C#\r");
@@ -16,11 +16,11 @@ namespace BasicCalculator
             
             // Ask the user to type the first number.
             Console.WriteLine("Type a number, and then press Enter");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToDouble(Console.ReadLine());
 
             // Ask the user to type the second number.
             Console.WriteLine("Type another number, and then press Enter");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            num2 = Convert.ToDouble(Console.ReadLine());
 
             // Ask the user to choose an option.
             Console.WriteLine("Choose an option from the following list:");
